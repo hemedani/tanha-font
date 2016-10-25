@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Tanha;
+    src: url('Tanha.eot');
+    src: url('Tanha.eot?#iefix') format('embedded-opentype'),
+         url('Tanha.woff') format('woff'),
+         url('Tanha.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Tanha;
+    src: url('Tanha-Bold.eot');
+    src: url('Tanha-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Tanha-Bold.woff') format('woff'),
+       url('Tanha-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
